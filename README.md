@@ -48,13 +48,6 @@ Magist is a mature tech ecosystem capable of scaling. However, Eniac must enforc
 
 ---
 
-## 🔗 How to Use This Project
-1. **Strategic Presentation:** Open and review `Eniac_Magist_Expansion_Analysis.pdf` to view the full executive business summary and core visual trends.
-2. **Database Exploration:** Open `queries.sql` in any SQL editor (MySQL Workbench, DBeaver, or DataGrip).
-3. **Execute Queries:** Run the script against an e-commerce database instance to replicate the market share, pricing percentiles, and delivery lead time metrics.
-
----
-
 ## 📈 Key Visualizations 
 ### 1. Delivery Trends Over Time (Tech Category)
 <img width="768" height="666" alt="Screenshot 2026-06-17 alle 21 31 21" src="https://github.com/user-attachments/assets/c75e4cad-25bd-42ce-9b73-f57e18c305cf" />
@@ -66,7 +59,14 @@ Magist is a mature tech ecosystem capable of scaling. However, Eniac must enforc
 
 *Description: This chart maps customer satisfaction ratings. While 76.7% of customers are highly satisfied (4 and 5 stars), a significant 11.8% of users left a 1-star review. Cross-referencing this data reveals that late deliveries and product discrepancies are the primary drivers of negative reviews, highlighting the critical importance of implementing strict contractual safeguards (SLAs) for Eniac's premium hardware.*
 
-—-
+---
+
+## 🔗 How to Use This Project
+1. **Strategic Presentation:** Open and review `Eniac_Magist_Expansion_Analysis.pdf` to view the full executive business summary and core visual trends.
+2. **Database Exploration:** Open `queries.sql` in any SQL editor (MySQL Workbench, DBeaver, or DataGrip).
+3. **Execute Queries:** Run the script against an e-commerce database instance to replicate the market share, pricing percentiles, and delivery lead time metrics.
+
+---
 
 ## 🚀 Future Work
 * **Advanced Sentiment Predictive Modeling:** Build a predictive model to forecast customer review scores based on real-time shipping delays and package weight variations.
